@@ -1,2 +1,3 @@
 entendendo o HEAD
 coisa aleatorias
+está linha foi modificada no ramo master
